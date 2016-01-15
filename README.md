@@ -2,6 +2,8 @@
 
 A Node-only Sass linter for both `sass` and `scss` syntax!
 
+# Seba's fork
+
 ## Install
 
 ```
